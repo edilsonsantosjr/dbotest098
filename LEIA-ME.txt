@@ -1,0 +1,13 @@
+🎮 COMO JOGAR NO MEU DBO SERVER
+
+1. Execute o arquivo Tibia.exe
+2. Se necessário, use o IPChanger.exe e coloque:
+   - IP: dbotest098.servegame.com
+   - Porta: 7171
+   - Versão: 8.60
+
+3. Use a conta padrão ou crie uma no site:
+   Account: 1
+   Senha: 1
+
+4. Bom jogo! Qualquer dúvida, chame no Discord: Ainda não temos hahaha
